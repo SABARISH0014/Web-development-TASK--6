@@ -1,0 +1,11 @@
+
+.App {
+  text-align: center;
+  background-color: #ffc116;
+  min-height: 100vh;
+}
+
+h1 {
+  padding: 20px;
+  color: #3f92ff;
+}
