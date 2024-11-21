@@ -1,0 +1,15 @@
+File Structure
+
+We'll organize the app into components and style files for better modularity.
+
+src/
+│
+├── components/
+│   ├── Gallery.js       # The main component to display the gallery
+│   ├── ImageItem.js         # The modal/lightbox component
+│   └── Modal.css        # CSS for the Modal component
+│
+├── App.js               # Main component that includes Gallery
+├── App.css              # Global CSS (optional)
+├── index.js             # Entry point of the React app
+└── index.css            # Global styles (optional)
